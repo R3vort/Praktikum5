@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+	
+.profile {
+  padding-right: 10px;
+}
+
+.aside1 {
+  text-align: right;
+  list-style-type: none;
+  padding: 25px;
+}
+
+.kle1 {
+  text-align: center;
+  padding: 50px;
